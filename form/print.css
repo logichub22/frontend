@@ -1,0 +1,11 @@
+@page {
+    size: A5;
+    margin: 0;
+    padding: 0;
+    line-height: 7px;
+}
+
+#print_btn {
+    display: none;
+    visibility: none;
+}

@@ -1,0 +1,45 @@
+body {
+    background-color: powderblue;
+    margin: auto;
+    padding: auto;
+}
+
+.header h1 {
+    color: brown;
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(178, 170, 186);
+    margin-right: 5px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+a :hover {
+    color: red;
+    background-color: blueviolet;
+}
+
+.login {
+    text-align: center;
+}
+
+.header {
+    background-color: palegoldenrod;
+    margin-top: -30px;
+    padding: 1rem;
+}
+
+.content,
+p {
+    max-width: 20%;
+    text-align: center;
+}
+
+.nav ul li {
+    display: inline-block;
+}
